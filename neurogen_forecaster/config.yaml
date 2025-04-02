@@ -1,0 +1,21 @@
+model:
+  input_dim: 7
+  latent_dim: 16
+  forecast_steps: 3
+  hidden_dim: 64
+  learning_rate: 0.001
+
+data:
+  source: mock
+
+training:
+  batch_size: 16
+  max_epochs: 100
+
+meta:
+  alpha_k: [1.0, 0.6, 0.3]
+  beta_k: [0.1, 0.1, 0.1]
+  rho: 0.0
+  gamma: 0.2
+  lambda: 0.01
+  delta: 0.05

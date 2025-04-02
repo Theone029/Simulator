@@ -1,0 +1,5 @@
+# Symbolic tokens mapped to their expanded forms
+~T1: "transition from passive observation to active feedback loop"
+~AG1: "agent generation triggered by signal score > 2.0"
+PL: "(λx. replace_if_redundant(x))"
+~SUM: "symbolic summary of repeated feedback expression"
