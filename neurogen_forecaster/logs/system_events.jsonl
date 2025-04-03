@@ -2004,3 +2004,20 @@
 {"type": "feedback_score_update", "data": {"unknown": 30.9191}}
 {"type": "feedback_score_update", "data": {"unknown": 30.9188}}
 {"type": "feedback_score_update", "data": {"unknown": 30.9186}}
+{"type": "feedback_score_update", "data": {"unknown": 30.9184}}
+{"type": "feedback_score_update", "data": {"unknown": 30.9182}}
+{"type": "feedback_score_update", "data": {"unknown": 30.918}}
+{"type": "feedback_score_update", "data": {"unknown": 30.9178}}
+{"type": "feedback_score_update", "data": {"unknown": 30.9176}}
+{"type": "feedback_score_update", "data": {"unknown": 30.9173}}
+{"type": "feedback_score_update", "data": {"unknown": 30.9171}}
+{"type": "feedback_score_update", "data": {"unknown": 30.9169}}
+{"type": "feedback_score_update", "data": {"unknown": 30.9167}}
+{"type": "feedback_score_update", "data": {"unknown": 30.9165}}
+{"type": "feedback_score_update", "data": {"unknown": 30.9163}}
+{"type": "feedback_score_update", "data": {"unknown": 30.9161}}
+{"type": "agent_spawn", "data": {"delta_accuracy": 0.15, "delta_entropy": 0.546, "token_cost": 0.01, "time_cost": 0.01}}
+{"type": "agent_spawn", "data": {"delta_accuracy": 0.15, "delta_entropy": 0.546, "token_cost": 0.01, "time_cost": 0.01}}
+{"type": "symbolic_compressor", "data": {"reason": "high_score_trigger"}}
+{"type": "feedback_score_update", "data": {"unknown": 31.0708}}
+{"type": "feedback_score_update", "data": {"unknown": 30.9162}}

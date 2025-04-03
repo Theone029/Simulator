@@ -8,3 +8,4 @@
 {"delta_accuracy": 0.15, "delta_entropy": 0.261, "token_cost": 0.01, "time_cost": 0.01}
 {"delta_accuracy": 0.15, "delta_entropy": 0.474, "token_cost": 0.01, "time_cost": 0.01}
 {"delta_accuracy": 0.15, "delta_entropy": 0.499, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.546, "token_cost": 0.01, "time_cost": 0.01}

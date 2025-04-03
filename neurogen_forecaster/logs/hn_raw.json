@@ -1,72 +1,72 @@
 [
   {
-    "title": "Reasoning models don't always say what they think",
-    "url": "https://www.anthropic.com/research/reasoning-models-dont-say-think",
-    "score": 223,
-    "comments": 132,
-    "time": 1743699008
-  },
-  {
-    "title": "A special build of curl that can impersonate Chrome and Firefox",
+    "title": "Curl-impersonate: Special build of curl that can impersonate the major browsers",
     "url": "https://github.com/lwthiker/curl-impersonate",
-    "score": 137,
-    "comments": 36,
+    "score": 158,
+    "comments": 40,
     "time": 1743693889
   },
   {
     "title": "Overengineered Anchor Links",
     "url": "https://thirty-five.com/overengineered-anchoring",
-    "score": 192,
-    "comments": 87,
+    "score": 199,
+    "comments": 90,
     "time": 1743691001
-  },
-  {
-    "title": "Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day",
-    "url": "https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day",
-    "score": 18,
-    "comments": 2,
-    "time": 1743703670
-  },
-  {
-    "title": "Declarative Web Push \u2013 WebKit",
-    "url": "https://webkit.org/blog/16535/meet-declarative-web-push/",
-    "score": 48,
-    "comments": 19,
-    "time": 1743422800
   },
   {
     "title": "An image of an archeologist adventurer who wears a hat and uses a bullwhip",
     "url": "https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer",
-    "score": 28,
-    "comments": 17,
+    "score": 53,
+    "comments": 24,
     "time": 1743702920
+  },
+  {
+    "title": "Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day",
+    "url": "https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day",
+    "score": 27,
+    "comments": 4,
+    "time": 1743703670
+  },
+  {
+    "title": "Reasoning models don't always say what they think",
+    "url": "https://www.anthropic.com/research/reasoning-models-dont-say-think",
+    "score": 241,
+    "comments": 147,
+    "time": 1743699008
+  },
+  {
+    "title": "Declarative Web Push \u2013 WebKit",
+    "url": "https://webkit.org/blog/16535/meet-declarative-web-push/",
+    "score": 55,
+    "comments": 34,
+    "time": 1743422800
   },
   {
     "title": "Declarative Schemas for simpler database management",
     "url": "https://supabase.com/blog/declarative-schemas",
-    "score": 40,
-    "comments": 19,
+    "score": 41,
+    "comments": 24,
     "time": 1743699771
-  },
-  {
-    "title": "Show HN: GitMCP is an automatic MCP server for every GitHub repo",
-    "url": "https://gitmcp.io/",
-    "score": 47,
-    "comments": 17,
-    "time": 1743704924
-  },
-  {
-    "title": "InitWare, a portable systemd fork running on BSDs and Linux",
-    "url": "https://github.com/InitWare/InitWare",
-    "score": 113,
-    "comments": 52,
-    "time": 1743682311
   },
   {
     "title": "I maintain a 17 year old ThinkPad",
     "url": "https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/",
-    "score": 527,
-    "comments": 471,
+    "score": 530,
+    "comments": 474,
     "time": 1743648008
+  },
+  {
+    "title": "InitWare, a portable systemd fork running on BSDs and Linux",
+    "url": "https://github.com/InitWare/InitWare",
+    "score": 116,
+    "comments": 55,
+    "time": 1743682311
+  },
+  {
+    "title": "AnimeJs v4 Is Here",
+    "url": "https://animejs.com/",
+    "score": 325,
+    "comments": 43,
+    "time": 1743691672
   }
 ]

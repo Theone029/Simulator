@@ -1,0 +1,6 @@
+{
+  "x_t": 2.0,
+  "noise_std": 0.1,
+  "learning_rate": 0.001,
+  "controller_arch": "SimpleController(\n  (net): Sequential(\n    (0): Linear(in_features=1, out_features=32, bias=True)\n    (1): ReLU()\n    (2): Linear(in_features=32, out_features=1, bias=True)\n  )\n)"
+}

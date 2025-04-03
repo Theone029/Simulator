@@ -105,3 +105,23 @@ def run_kernel_league_loop(steps=50):
             run_adversarial_kernels(step)
         time.sleep(0.25)
     print("=== END LOOP ===")
+
+# ✅ REPLACE any existing log_best_kernel_beacon
+def log_best_kernel_beacon(path="logs/kernel_beacons.jsonl"):
+    import json, os, time
+    try:
+        os.makedirs("logs", exist_ok=True)
+        best = kernel_league.get_best_kernel()
+        metrics = best.get_metrics()
+        beacon = {
+            "t": time.time(),
+            "x_t": metrics.get("x_t", 0),
+            "C": metrics.get("C(t)", 0),
+            "delta_H": metrics.get("delta_H", 0),
+            "CR": metrics.get("compression", {}).get("compression_ratio", 1.0)
+        }
+        with open(path, "a") as f:
+            f.write(json.dumps(beacon) + "\n")
+        print("[BEACON] Logged:", beacon)
+    except Exception as e:
+        print("[BEACON ERROR]", e)

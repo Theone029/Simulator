@@ -1,22 +1,22 @@
-[SUMMARY REPORT] 2025-04-03T20:12:29.691344 UTC
+[SUMMARY REPORT] 2025-04-03T20:25:26.392336 UTC
 
 Recent Drift (avg deltas):
 {
-  "exploration": -0.016,
-  "compression": 0.011,
-  "dominance": 0.005
+  "exploration": 0.015,
+  "compression": -0.098,
+  "dominance": 0.083
 }
 
 Entropy Overview:
 {
   "final": {
-    "input_entropy": 0.528,
-    "output_entropy": 0.701,
-    "delta_entropy": 0.089
+    "input_entropy": 0.546,
+    "output_entropy": 0.605,
+    "delta_entropy": 0.109
   },
   "average": {
-    "input_entropy": 0.536,
-    "output_entropy": 0.504,
-    "delta_entropy": 0.023
+    "input_entropy": 0.494,
+    "output_entropy": 0.515,
+    "delta_entropy": 0.025
   }
 }
