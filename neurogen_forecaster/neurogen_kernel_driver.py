@@ -67,3 +67,41 @@ def run_kernel_league_loop(steps=50):
         log_best_kernel_beacon()
         time.sleep(0.25)
     print("=== END LOOP ===")
+
+from adversarial_kernel import AdversarialKernel
+
+adversarial_kernels = [AdversarialKernel(x0=5.0 + i) for i in range(2)]
+
+def run_adversarial_kernels(steps=50):
+    print("=== ADVERSARIAL KERNELS ===")
+    for step in range(steps):
+        for i, k in enumerate(adversarial_kernels):
+            metrics = k.step()
+            print(f"[ADVERSARY {i}] Step {step} | x_t={metrics['x_t']:.4f} | C={-metrics['C(t)']:.4f} | ΔH={-metrics['delta_H']:.4f}")
+
+from adversarial_kernel import AdversarialKernel
+adversarial_kernels = [AdversarialKernel(x0=5.0 + i) for i in range(2)]
+
+def run_adversarial_kernels(step):
+    for i, k in enumerate(adversarial_kernels):
+        metrics = k.step()
+        print(f"[ADVERSARY {i}] Step {step} | x_t={metrics['x_t']:.4f} | C={-metrics['C(t)']:.4f} | ΔH={-metrics['delta_H']:.4f}")
+
+# PATCH: Adversary injection into kernel loop
+old_loop = run_kernel_league_loop
+def run_kernel_league_loop(steps=50):
+    print("=== NEUROGEN DUAL-LEAGUE KERNEL LOOP ===")
+    for step in range(steps):
+        for i, kernel in enumerate(kernel_league.kernels):
+            metrics = watchdogs[i].safe_step(kernel)
+            if metrics:
+                print(f"[KERNEL {i}] Step {step} | x_t={metrics['x_t']:.4f} | C={metrics['C(t)']:.4f} | ΔH={metrics['delta_H']:.4f} | CR={metrics['compression']['compression_ratio']:.3f}")
+        if step % 10 == 0:
+            print("--- League Evolution ---")
+            kernel_league.evolve_league()
+            emit_best_kernel_config()
+        log_best_kernel_beacon()
+        if step % 10 == 5:
+            run_adversarial_kernels(step)
+        time.sleep(0.25)
+    print("=== END LOOP ===")
