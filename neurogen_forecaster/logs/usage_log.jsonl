@@ -1,3 +1,0 @@
-{"module": "external_signal_bridge", "time": "2025-03-31T22:25:01.785635", "signal_name": "mock_trend_1", "score": 9.151902053594645, "delta_entropy": 0.09169706417392698, "cost": 0.02003790855407715}
-{"module": "external_signal_bridge", "time": "2025-03-31T22:25:01.785661", "signal_name": "mock_trend_3", "score": 6.700839430218599, "delta_entropy": 0.06708203932499368, "cost": 0.020020980834960938}
-{"module": "external_signal_bridge", "time": "2025-03-31T22:25:01.785671", "signal_name": "mock_trend_2", "score": 1.5675807041689505, "delta_entropy": 0.015696399071339684, "cost": 0.020025272369384766}

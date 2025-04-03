@@ -1,2 +1,0 @@
-{"time": "2025-04-01T03:41:22.209013", "signal": {"delta_accuracy": 0.12, "delta_entropy": 0.04, "token_cost": 0.01, "time_cost": 0.01}, "score": 4.799999999999999}
-{"time": "2025-04-01T03:41:58.868402", "signal": {"delta_accuracy": 0.15, "delta_entropy": 0.05, "token_cost": 0.01, "time_cost": 0.01}, "score": 6.0}

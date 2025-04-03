@@ -1,72 +1,72 @@
 [
   {
-    "title": "DEDA \u2013 Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
-    "url": "https://github.com/dfd-tud/deda",
-    "score": 118,
-    "comments": 38,
-    "time": 1743541903
+    "title": "Reasoning models don't always say what they think",
+    "url": "https://www.anthropic.com/research/reasoning-models-dont-say-think",
+    "score": 223,
+    "comments": 132,
+    "time": 1743699008
   },
   {
-    "title": "Electron band structure in germanium, my ass",
-    "url": "https://pages.cs.wisc.edu/~kovar/hall.html",
-    "score": 712,
-    "comments": 298,
-    "time": 1743510312
-  },
-  {
-    "title": "The atrocious state of binary compatibility on Linux and how to address it",
-    "url": "https://jangafx.com/insights/linux-binary-compatibility",
-    "score": 38,
-    "comments": 28,
-    "time": 1743546166
-  },
-  {
-    "title": "Show HN: Offline SOS signaling+recovery app for disasters/wars",
-    "url": "https://github.com/nizarmah/igatha",
-    "score": 35,
-    "comments": 16,
-    "time": 1743544712
-  },
-  {
-    "title": "Shared DNA in Music",
-    "url": "https://pudding.cool/2025/04/music-dna/",
-    "score": 76,
-    "comments": 10,
-    "time": 1743541643
-  },
-  {
-    "title": "Bletchley code breaker Betty Webb dies aged 101",
-    "url": "https://www.bbc.com/news/articles/c78jd30ywv8o",
-    "score": 323,
-    "comments": 56,
-    "time": 1743512128
-  },
-  {
-    "title": "Dave T\u00e4ht has died",
-    "url": "https://libreqos.io/2025/04/01/in-loving-memory-of-dave/",
-    "score": 146,
-    "comments": 24,
-    "time": 1743532847
-  },
-  {
-    "title": "Glubux's Powerwall (2016)",
-    "url": "https://secondlifestorage.com/index.php?threads/glubuxs-powerwall.126/",
-    "score": 343,
-    "comments": 223,
-    "time": 1743522541
-  },
-  {
-    "title": "Show HN: Qwen-2.5-32B is now the best open source OCR model",
-    "url": "https://github.com/getomni-ai/benchmark/blob/main/README.md",
-    "score": 143,
+    "title": "A special build of curl that can impersonate Chrome and Firefox",
+    "url": "https://github.com/lwthiker/curl-impersonate",
+    "score": 137,
     "comments": 36,
-    "time": 1743526849
+    "time": 1743693889
   },
   {
-    "title": "The Myst Graph: A New Perspective on Myst",
-    "url": "https://glthr.com/myst-graph-1",
-    "score": 144,
-    "comments": 32,
-    "time": 1743527988
+    "title": "Overengineered Anchor Links",
+    "url": "https://thirty-five.com/overengineered-anchoring",
+    "score": 192,
+    "comments": 87,
+    "time": 1743691001
+  },
+  {
+    "title": "Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day",
+    "url": "https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day",
+    "score": 18,
+    "comments": 2,
+    "time": 1743703670
+  },
+  {
+    "title": "Declarative Web Push \u2013 WebKit",
+    "url": "https://webkit.org/blog/16535/meet-declarative-web-push/",
+    "score": 48,
+    "comments": 19,
+    "time": 1743422800
+  },
+  {
+    "title": "An image of an archeologist adventurer who wears a hat and uses a bullwhip",
+    "url": "https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer",
+    "score": 28,
+    "comments": 17,
+    "time": 1743702920
+  },
+  {
+    "title": "Declarative Schemas for simpler database management",
+    "url": "https://supabase.com/blog/declarative-schemas",
+    "score": 40,
+    "comments": 19,
+    "time": 1743699771
+  },
+  {
+    "title": "Show HN: GitMCP is an automatic MCP server for every GitHub repo",
+    "url": "https://gitmcp.io/",
+    "score": 47,
+    "comments": 17,
+    "time": 1743704924
+  },
+  {
+    "title": "InitWare, a portable systemd fork running on BSDs and Linux",
+    "url": "https://github.com/InitWare/InitWare",
+    "score": 113,
+    "comments": 52,
+    "time": 1743682311
+  },
+  {
+    "title": "I maintain a 17 year old ThinkPad",
+    "url": "https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/",
+    "score": 527,
+    "comments": 471,
+    "time": 1743648008
   }
 ]

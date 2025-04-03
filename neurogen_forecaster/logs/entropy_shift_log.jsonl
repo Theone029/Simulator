@@ -1,0 +1,12 @@
+{"timestamp": "2025-04-03T03:23:39.970206", "entropy_shift": -0.05347, "prev_entropy": 1.57964, "current_entropy": 1.52618, "vector": {"exploration": 0.47, "compression": 0.28, "dominance": 0.25}}
+{"timestamp": "2025-04-03T03:23:42.044162", "entropy_shift": 0.03501, "prev_entropy": 1.52618, "current_entropy": 1.56118, "vector": {"exploration": 0.37, "compression": 0.25, "dominance": 0.38}}
+{"timestamp": "2025-04-03T03:23:44.107527", "entropy_shift": -0.00766, "prev_entropy": 1.56118, "current_entropy": 1.55352, "vector": {"exploration": 0.24, "compression": 0.36, "dominance": 0.4}}
+{"timestamp": "2025-04-03T03:23:46.180644", "entropy_shift": -0.55468, "prev_entropy": 1.55352, "current_entropy": 0.99885, "vector": {"exploration": 0.52, "compression": 0.48, "dominance": 0.0}}
+{"timestamp": "2025-04-03T03:23:48.254148", "entropy_shift": 0.30316, "prev_entropy": 0.99885, "current_entropy": 1.302, "vector": {"exploration": 0.54, "compression": 0.38, "dominance": 0.08}}
+{"timestamp": "2025-04-03T03:23:50.323238", "entropy_shift": 0.18638, "prev_entropy": 1.302, "current_entropy": 1.48839, "vector": {"exploration": 0.23, "compression": 0.51, "dominance": 0.26}}
+{"timestamp": "2025-04-03T03:23:52.389658", "entropy_shift": 0.07203, "prev_entropy": 1.48839, "current_entropy": 1.56041, "vector": {"exploration": 0.39, "compression": 0.36, "dominance": 0.25}}
+{"timestamp": "2025-04-03T03:23:54.457303", "entropy_shift": -0.29573, "prev_entropy": 1.56041, "current_entropy": 1.26468, "vector": {"exploration": 0.5, "compression": 0.44, "dominance": 0.06}}
+{"timestamp": "2025-04-03T03:23:56.528258", "entropy_shift": 0.14962, "prev_entropy": 1.26468, "current_entropy": 1.4143, "vector": {"exploration": 0.23, "compression": 0.57, "dominance": 0.2}}
+{"timestamp": "2025-04-03T03:23:58.609173", "entropy_shift": 0.13529, "prev_entropy": 1.4143, "current_entropy": 1.5496, "vector": {"exploration": 0.25, "compression": 0.43, "dominance": 0.32}}
+{"timestamp": "2025-04-03T03:24:00.678689", "entropy_shift": -0.05093, "prev_entropy": 1.5496, "current_entropy": 1.49867, "vector": {"exploration": 0.39, "compression": 0.43, "dominance": 0.18}}
+{"timestamp": "2025-04-03T03:24:02.754862", "entropy_shift": -0.0091, "prev_entropy": 1.49867, "current_entropy": 1.48956, "vector": {"exploration": 0.25, "compression": 0.24, "dominance": 0.51}}

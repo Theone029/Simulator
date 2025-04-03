@@ -1,0 +1,10 @@
+[loop] Starting NEUROGEN recursive loop...
+Intent Vector: {'exploration': 0.25, 'compression': 0.42, 'dominance': 0.33}
+Spawning: symbolic_compressor
+Spawning: dominance_tracker
+Dominance logged for domain high
+[symbolic_compressor] Activated.
+[symbolic_compressor] Compression complete.
+[domain_mapper] Best path selected: {'id': 1, 'type': 'research', 'score': 0.8}
+[meta_operator] Next module selected: symbolic_compressor
+[loop] Cycle complete.

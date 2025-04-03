@@ -1,0 +1,7 @@
+[loop] Starting NEUROGEN recursive loop...
+Intent Vector: {'exploration': 0.56, 'compression': 0.3, 'dominance': 0.15}
+Spawning: agent_explorer
+[agent_explorer] Paths generated.
+[domain_mapper] Best path selected: {'id': 1, 'type': 'research', 'score': 0.8}
+[meta_operator] Next module selected: symbolic_compressor
+[loop] Cycle complete.
