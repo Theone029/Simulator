@@ -1,72 +1,72 @@
 [
   {
+    "title": "An image of an archeologist adventurer who wears a hat and uses a bullwhip",
+    "url": "https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer",
+    "score": 223,
+    "comments": 114,
+    "time": 1743702920
+  },
+  {
     "title": "Curl-impersonate: Special build of curl that can impersonate the major browsers",
     "url": "https://github.com/lwthiker/curl-impersonate",
-    "score": 158,
-    "comments": 40,
+    "score": 193,
+    "comments": 47,
     "time": 1743693889
   },
   {
     "title": "Overengineered Anchor Links",
     "url": "https://thirty-five.com/overengineered-anchoring",
-    "score": 199,
-    "comments": 90,
+    "score": 224,
+    "comments": 99,
     "time": 1743691001
-  },
-  {
-    "title": "An image of an archeologist adventurer who wears a hat and uses a bullwhip",
-    "url": "https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer",
-    "score": 53,
-    "comments": 24,
-    "time": 1743702920
   },
   {
     "title": "Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day",
     "url": "https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day",
-    "score": 27,
-    "comments": 4,
+    "score": 45,
+    "comments": 13,
     "time": 1743703670
+  },
+  {
+    "title": "The cultural evolution of distortion in music",
+    "url": "https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014",
+    "score": 4,
+    "comments": 0,
+    "time": 1743714226
+  },
+  {
+    "title": "AI cheats: Why you didn't notice your teammate was cheating",
+    "url": "https://niila.fi/en/ai-cheats/",
+    "score": 32,
+    "comments": 14,
+    "time": 1743711904
+  },
+  {
+    "title": "Aviator (YC S21) is hiring engineers to build AI DevEx platform",
+    "url": "https://www.ycombinator.com/companies/aviator/jobs",
+    "score": 1,
+    "comments": 0,
+    "time": 1743714511
+  },
+  {
+    "title": "New nanoparticle therapies target two major killers",
+    "url": "https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers",
+    "score": 16,
+    "comments": 5,
+    "time": 1743430732
   },
   {
     "title": "Reasoning models don't always say what they think",
     "url": "https://www.anthropic.com/research/reasoning-models-dont-say-think",
-    "score": 241,
-    "comments": 147,
+    "score": 277,
+    "comments": 181,
     "time": 1743699008
   },
   {
-    "title": "Declarative Web Push \u2013 WebKit",
-    "url": "https://webkit.org/blog/16535/meet-declarative-web-push/",
-    "score": 55,
-    "comments": 34,
-    "time": 1743422800
-  },
-  {
-    "title": "Declarative Schemas for simpler database management",
-    "url": "https://supabase.com/blog/declarative-schemas",
-    "score": 41,
-    "comments": 24,
-    "time": 1743699771
-  },
-  {
-    "title": "I maintain a 17 year old ThinkPad",
-    "url": "https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/",
-    "score": 530,
-    "comments": 474,
-    "time": 1743648008
-  },
-  {
-    "title": "InitWare, a portable systemd fork running on BSDs and Linux",
-    "url": "https://github.com/InitWare/InitWare",
-    "score": 116,
-    "comments": 55,
-    "time": 1743682311
-  },
-  {
-    "title": "AnimeJs v4 Is Here",
-    "url": "https://animejs.com/",
-    "score": 325,
-    "comments": 43,
-    "time": 1743691672
+    "title": "Senior Developer Skills in the AI Age",
+    "url": "https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/",
+    "score": 26,
+    "comments": 10,
+    "time": 1743706044
   }
 ]

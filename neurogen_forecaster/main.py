@@ -2,11 +2,35 @@ import yaml
 import numpy as np
 import torch
 import torch.optim as optim
+import json
+import time
+from collections import deque
 from data_ingestor import DataIngestor
 from pattern_encoder import PatternEncoder
 from forecast_generator import ForecastGenerator
 from meta_loss import compute_meta_loss
 from orchestrator import Orchestrator
+
+forecast_entropy_window = deque(maxlen=100)
+
+def log_forecast_entropy(S, path="logs/forecast_entropy.jsonl"):
+    try:
+        flat = S.detach().cpu().numpy().flatten()
+        hist, _ = np.histogram(flat, bins=20, density=True)
+        hist = hist[hist > 0]
+        entropy = -np.sum(hist * np.log2(hist))
+        forecast_entropy_window.append(entropy)
+        delta_H = 0 if len(forecast_entropy_window) < 2 else entropy - forecast_entropy_window[-2]
+        beacon = {
+            "t": time.time(),
+            "H": entropy,
+            "delta_H": delta_H
+        }
+        with open(path, "a") as f:
+            f.write(json.dumps(beacon) + "\n")
+        print("[FORECAST ENTROPY] Logged:", beacon)
+    except Exception as e:
+        print("[FORECAST ENTROPY ERROR]", e)
 
 def train_one_epoch(encoder, forecaster, optimizer, batch_data, config, device):
     encoder.train()
@@ -42,9 +66,7 @@ def main():
     optimizer = optim.Adam(params, lr=learning_rate)
     max_epochs = config["training"]["max_epochs"]
     batch_size = config["training"]["batch_size"]
-
     orchestrator = Orchestrator(config)
-
     print("Starting Training...")
     for epoch in range(max_epochs):
         historical_data = ingestor.get_historical_batch(length=64)
@@ -57,6 +79,7 @@ def main():
             batch_samples.append(sample)
         batch_samples = np.array(batch_samples)
         loss_value, S, X_target = train_one_epoch(encoder, forecaster, optimizer, batch_samples, config, device)
+        log_forecast_entropy(S)
         if (epoch + 1) % 5 == 0:
             print(f"Epoch {epoch + 1}/{max_epochs} | Loss: {loss_value:.4f}")
         system_state = {

@@ -2548,3 +2548,83 @@
 {"delta_accuracy": 0.15, "delta_entropy": 0.625, "token_cost": 0.01, "time_cost": 0.01}
 {"delta_accuracy": 0.15, "delta_entropy": 0.5, "token_cost": 0.01, "time_cost": 0.01}
 {"delta_accuracy": 0.15, "delta_entropy": 0.596, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.523, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.542, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.57, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.407, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.63, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.363, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.454, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.625, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.501, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.429, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.551, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.544, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.571, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.409, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.631, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.198, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.459, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.461, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.624, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.5, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.053, "delta_entropy": 0.038, "token_cost": 0.012, "time_cost": 0.011, "source": "news"}
+{"delta_accuracy": 0.048, "delta_entropy": 0.023, "token_cost": 0.012, "time_cost": 0.011, "source": "news"}
+{"delta_accuracy": 0.045, "delta_entropy": 0.037, "token_cost": 0.012, "time_cost": 0.011, "source": "news"}
+{"delta_accuracy": 0.046, "delta_entropy": 0.036, "token_cost": 0.012, "time_cost": 0.011, "source": "news"}
+{"delta_accuracy": 0.062, "delta_entropy": 0.029, "token_cost": 0.012, "time_cost": 0.011, "source": "news"}
+{"delta_accuracy": 0.086, "delta_entropy": 0.039, "token_cost": 0.012, "time_cost": 0.011, "source": "news"}
+{"delta_accuracy": 0.041, "delta_entropy": 0.031, "token_cost": 0.012, "time_cost": 0.011, "source": "news"}
+{"delta_accuracy": 0.056, "delta_entropy": 0.039, "token_cost": 0.012, "time_cost": 0.011, "source": "news"}
+{"delta_accuracy": 0.073, "delta_entropy": 0.035, "token_cost": 0.012, "time_cost": 0.011, "source": "news"}
+{"delta_accuracy": 0.075, "delta_entropy": 0.029, "token_cost": 0.012, "time_cost": 0.011, "source": "news"}
+{"delta_accuracy": 0.15, "delta_entropy": 0.566, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.355, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.544, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.571, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.414, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.632, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.479, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.462, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.183, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.624, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.585, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.405, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.544, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.57, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.418, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.631, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.198, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.274, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.624, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.5, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.595, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.435, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.546, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.571, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.424, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.122, "delta_entropy": 0.122, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.63, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.221, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.281, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.624, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.607, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.548, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.571, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.43, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.455, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.102, "delta_entropy": 0.102, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.196, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.234, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.63, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.48, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.614, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.548, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.571, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.433, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.215, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.463, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.095, "delta_entropy": 0.095, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.246, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.629, "token_cost": 0.01, "time_cost": 0.01}
+{"delta_accuracy": 0.15, "delta_entropy": 0.392, "token_cost": 0.01, "time_cost": 0.01}

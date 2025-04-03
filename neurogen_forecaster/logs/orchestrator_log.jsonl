@@ -1,0 +1,370 @@
+{"time": "2025-04-03T21:39:52.401700", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:52.401914", "event": "SPAWNED: agent_explorer"}
+{"time": "2025-04-03T21:39:52.426168", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:52.426675", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:52.426761", "event": "RAN: agent_explorer | \u0394: 0.3035"}
+{"time": "2025-04-03T21:39:53.436860", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:53.436967", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:53.437257", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:53.437383", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:53.875403", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:53.875472", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:53.875730", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:53.875794", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:53.880026", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:53.880775", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:53.881006", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:53.881081", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:53.889901", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:53.889949", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:53.889990", "event": "TERMINATED: agent_explorer after 5 cycles"}
+{"time": "2025-04-03T21:39:53.890183", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:53.890252", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:53.921562", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:53.921849", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:53.921943", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:53.925517", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:53.925737", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:53.925831", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:53.929644", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:53.929975", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:53.930201", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:53.937209", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:53.937494", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:53.937631", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:53.986315", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:53.986677", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:53.986816", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:53.992725", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:53.992866", "event": "SPAWNED: agent_explorer"}
+{"time": "2025-04-03T21:39:53.993125", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:53.993259", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:53.993477", "event": "RAN: agent_explorer | \u0394: 0.2682"}
+{"time": "2025-04-03T21:39:53.996596", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:53.996682", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:53.996890", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:53.996978", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:53.999953", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:54.000026", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:54.000232", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:54.000335", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:54.039107", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:54.039258", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:54.039655", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:54.039798", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:54.046112", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:54.046230", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:54.046365", "event": "TERMINATED: agent_explorer after 5 cycles"}
+{"time": "2025-04-03T21:39:54.046634", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:54.046770", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:54.059291", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:54.059526", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:54.059618", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:54.065480", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:54.065705", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:54.065830", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:54.069366", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:54.069578", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:54.069668", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:54.080716", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:54.080929", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:54.081018", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:54.084202", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:54.084422", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:54.084513", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:54.110004", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:54.110164", "event": "SPAWNED: agent_explorer"}
+{"time": "2025-04-03T21:39:54.110488", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:54.110629", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:54.110822", "event": "RAN: agent_explorer | \u0394: 0.1126"}
+{"time": "2025-04-03T21:39:54.271414", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:54.271600", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:54.271982", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:54.272129", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:54.285394", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:54.285538", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:54.285862", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:54.286002", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:54.953005", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:54.953120", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:54.953427", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:54.959261", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:56.036909", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:56.037024", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:56.037085", "event": "TERMINATED: agent_explorer after 5 cycles"}
+{"time": "2025-04-03T21:39:56.037357", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:56.037417", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:56.519350", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:56.519670", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:56.519790", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:56.526228", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:56.526476", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:56.526568", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:56.537665", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:56.537904", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:56.537995", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:56.618677", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:56.619024", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:56.619176", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:56.623235", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:56.623544", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:56.623664", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:56.631397", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:56.631561", "event": "SPAWNED: agent_explorer"}
+{"time": "2025-04-03T21:39:56.631892", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:56.635263", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:56.635401", "event": "RAN: agent_explorer | \u0394: 0.2886"}
+{"time": "2025-04-03T21:39:56.644029", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:56.644114", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:56.644405", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:56.644499", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:56.667410", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:56.667535", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:56.667869", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:56.667993", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:56.789620", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:56.789790", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:56.790160", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:56.795230", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:57.598363", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:57.598471", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:57.598569", "event": "TERMINATED: agent_explorer after 5 cycles"}
+{"time": "2025-04-03T21:39:57.598879", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:57.598994", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:58.520965", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:58.528922", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:58.529078", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:58.605233", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:58.605510", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:58.605574", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:58.674712", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:58.675026", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:58.675210", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:58.682396", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:58.682685", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:58.682842", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:58.686090", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:58.686366", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:58.687525", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:58.714317", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:58.714454", "event": "SPAWNED: agent_explorer"}
+{"time": "2025-04-03T21:39:58.714707", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:58.714799", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:39:58.714910", "event": "RAN: agent_explorer | \u0394: 0.3364"}
+{"time": "2025-04-03T21:39:59.416976", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:39:59.417037", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:39:59.417274", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:39:59.417361", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:00.469993", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:00.470101", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:00.471466", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:00.471594", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:00.971286", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:00.971373", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:00.971624", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:00.971688", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:00.981751", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:00.981881", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:00.981989", "event": "TERMINATED: agent_explorer after 5 cycles"}
+{"time": "2025-04-03T21:40:00.982322", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:00.982420", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.047399", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.047709", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.047823", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.050912", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.051156", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.055267", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.070410", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.070657", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.070751", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.076032", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.076250", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.076358", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.079468", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.079706", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.079799", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.083210", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.083322", "event": "SPAWNED: agent_explorer"}
+{"time": "2025-04-03T21:40:01.083536", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.083624", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.083733", "event": "RAN: agent_explorer | \u0394: 0.2117"}
+{"time": "2025-04-03T21:40:01.091955", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.092032", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.092265", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.092373", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.095327", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.095413", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.095620", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.095708", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.100952", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.101028", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.101236", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.101339", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.108573", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.108645", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.108716", "event": "TERMINATED: agent_explorer after 5 cycles"}
+{"time": "2025-04-03T21:40:01.108913", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.109001", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.112216", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.112516", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.112645", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.116273", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.116528", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.116659", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.119885", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.120142", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.120262", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.125391", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.125599", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.125691", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.137832", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.138090", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.138186", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.153336", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.153439", "event": "SPAWNED: agent_explorer"}
+{"time": "2025-04-03T21:40:01.153684", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.153774", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.153889", "event": "RAN: agent_explorer | \u0394: 0.2483"}
+{"time": "2025-04-03T21:40:01.176353", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.176428", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.176674", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.176735", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.186212", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.186267", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.186512", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.186572", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.202958", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.203061", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.203384", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.203501", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.214865", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.214969", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.215066", "event": "TERMINATED: agent_explorer after 5 cycles"}
+{"time": "2025-04-03T21:40:01.215355", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.215448", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.228007", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.228276", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.228368", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.239434", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.239759", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.239881", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.259164", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.259463", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.259529", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.262707", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.262909", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.262966", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.274887", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.275186", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.275261", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.281102", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.281241", "event": "SPAWNED: agent_explorer"}
+{"time": "2025-04-03T21:40:01.281526", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.281642", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.281794", "event": "RAN: agent_explorer | \u0394: 0.2132"}
+{"time": "2025-04-03T21:40:01.300201", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.300407", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.300784", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.300880", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.305820", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.305924", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.306240", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.306369", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.314008", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.314087", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.314359", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.314450", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.321737", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.321854", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.321952", "event": "TERMINATED: agent_explorer after 5 cycles"}
+{"time": "2025-04-03T21:40:01.322212", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.322347", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.336031", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.336324", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.336471", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.349347", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.349630", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.349725", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.360311", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.360605", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.360722", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.363903", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.364177", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.364269", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.374089", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.374421", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.374542", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.432981", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.433124", "event": "SPAWNED: agent_explorer"}
+{"time": "2025-04-03T21:40:01.433448", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.433564", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.433720", "event": "RAN: agent_explorer | \u0394: 0.1176"}
+{"time": "2025-04-03T21:40:01.457732", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.457868", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.458188", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.458351", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.462586", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.462683", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.462980", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.463107", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.466325", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.466404", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.466630", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.466721", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.470202", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.470274", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.470361", "event": "TERMINATED: agent_explorer after 5 cycles"}
+{"time": "2025-04-03T21:40:01.470602", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.470696", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.475217", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.475443", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.475577", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.479274", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.479491", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.479582", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.486953", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.487203", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.487349", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.493530", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.493835", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.493952", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.513324", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.513586", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.513702", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.518556", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.518676", "event": "SPAWNED: agent_explorer"}
+{"time": "2025-04-03T21:40:01.518970", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.519082", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.519263", "event": "RAN: agent_explorer | \u0394: 0.1658"}
+{"time": "2025-04-03T21:40:01.522387", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.522461", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.522668", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.522770", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.534188", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.534294", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.534619", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.534776", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.557489", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.557558", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.557880", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.557967", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.694087", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.694145", "event": "RAN: agent_explorer | \u0394: 0.0000"}
+{"time": "2025-04-03T21:40:01.694190", "event": "TERMINATED: agent_explorer after 5 cycles"}
+{"time": "2025-04-03T21:40:01.694496", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.694568", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.702206", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.702458", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.702518", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.715894", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.716126", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.716187", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:01.790692", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:01.790936", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:01.791002", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:02.320264", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:02.320574", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:02.320644", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
+{"time": "2025-04-03T21:40:03.324011", "event": "SPAWNED: symbolic_compressor"}
+{"time": "2025-04-03T21:40:03.324360", "event": "RAN: symbolic_compressor | \u0394: -0.0100"}
+{"time": "2025-04-03T21:40:03.331852", "event": "TERMINATED: symbolic_compressor after 1 cycles"}
